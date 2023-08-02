@@ -1,0 +1,6 @@
+Student details
+alex:87
+alen:35
+christa:90
+brijesh:67
+
